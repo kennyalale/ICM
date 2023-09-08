@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+icmarketsgroup.com	TRUE	/	FALSE	1999999999	next-i18next	en
+icmarketsgroup.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+

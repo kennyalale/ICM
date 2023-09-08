@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Dec 2021 21:14:51 at https://www.icmarkets.com/global/en/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.icmarkets.com/global/en/ -O1 "C:\Users\Kenny Power\Desktop\IC Markets Homepage\IC markets Homepage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:14:53	Warning: 	Moved Temporarily for https://www.icmarkets.com/robots.txt
+21:14:53	Warning: 	File has moved from https://www.icmarkets.com/robots.txt to /global/en/
+21:19:40	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.icmarkets.com/global/en/)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/~/assets/img/single_market_page/icon-market.png (from https://www.icmarkets.com/css/style.css?802efa20b85f3a44d1f4177f992f5d42)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/~/assets/img/single_market_page/forex-small.png (from https://www.icmarkets.com/css/style.css?802efa20b85f3a44d1f4177f992f5d42)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/~/assets/img/single_market_page/comodity-small.png (from https://www.icmarkets.com/css/style.css?802efa20b85f3a44d1f4177f992f5d42)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/~/assets/img/single_market_page/indice-small.png (from https://www.icmarkets.com/css/style.css?802efa20b85f3a44d1f4177f992f5d42)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/~/assets/img/single_market_page/bond-small.png (from https://www.icmarkets.com/css/style.css?802efa20b85f3a44d1f4177f992f5d42)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/~/assets/img/single_market_page/btc-small.png (from https://www.icmarkets.com/css/style.css?802efa20b85f3a44d1f4177f992f5d42)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/~/assets/img/single_market_page/stock-small.png (from https://www.icmarkets.com/css/style.css?802efa20b85f3a44d1f4177f992f5d42)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/c (from https://connect.facebook.net/en_US/fbevents.js)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/b (from https://connect.facebook.net/en_US/fbevents.js)
+21:19:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:22:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://chatwidget.icmarkets-resources.com/zendesk-v1.js (from https://www.icmarkets.com/global/en/help-resources/help-centre)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/constants.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/xhr.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/path=/ (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/GET (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/lib/widget-management.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/icm-open-account/images/oval.svg (from https://www.icmarkets.com/icm-open-account/css/landing-page-template-bundle.css?ee3852ec9040c1ea4ab4cf7d2ff06ba8)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/icm-open-account/images/icon1.png (from https://www.icmarkets.com/icm-open-account/css/landing-page-template-bundle.css?ee3852ec9040c1ea4ab4cf7d2ff06ba8)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/icm-open-account/images/transparent-bg.png (from https://www.icmarkets.com/icm-open-account/css/landing-page-template-bundle.css?ee3852ec9040c1ea4ab4cf7d2ff06ba8)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/img/single_market_page/icon-market.png (from https://www.icmarkets.com/icm-open-account/css/static-live.css?a8471851ad0d033c5c4b1c30ae933fd4)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/img/single_market_page/forex-small.png (from https://www.icmarkets.com/icm-open-account/css/static-live.css?a8471851ad0d033c5c4b1c30ae933fd4)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/img/single_market_page/comodity-small.png (from https://www.icmarkets.com/icm-open-account/css/static-live.css?a8471851ad0d033c5c4b1c30ae933fd4)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/img/single_market_page/indice-small.png (from https://www.icmarkets.com/icm-open-account/css/static-live.css?a8471851ad0d033c5c4b1c30ae933fd4)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/img/single_market_page/bond-small.png (from https://www.icmarkets.com/icm-open-account/css/static-live.css?a8471851ad0d033c5c4b1c30ae933fd4)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/img/single_market_page/btc-small.png (from https://www.icmarkets.com/icm-open-account/css/static-live.css?a8471851ad0d033c5c4b1c30ae933fd4)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/assets/img/single_market_page/stock-small.png (from https://www.icmarkets.com/icm-open-account/css/static-live.css?a8471851ad0d033c5c4b1c30ae933fd4)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/icm-open-account/css/~/img/single_market_page/footBanr.png (from https://www.icmarkets.com/icm-open-account/css/static-live.css?a8471851ad0d033c5c4b1c30ae933fd4)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/icons/svg/Dropdown.png (from https://www.icmarkets.com/css/pages/contact-us.css?9fb6a3ad01a0b52e2b3eff63ed428931)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/icm-open-account/img/platform-mt5.png (from https://www.icmarkets.com/css/pages/contact-us.css?9fb6a3ad01a0b52e2b3eff63ed428931)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/pages/~/assets/img/single_market_page/icon-market.png (from https://www.icmarkets.com/css/pages/why-icmarkets.css?64cd5a25d451a60affa471fdb7084261)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/pages/~/assets/img/single_market_page/forex-small.png (from https://www.icmarkets.com/css/pages/why-icmarkets.css?64cd5a25d451a60affa471fdb7084261)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/pages/~/assets/img/single_market_page/comodity-small.png (from https://www.icmarkets.com/css/pages/why-icmarkets.css?64cd5a25d451a60affa471fdb7084261)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/pages/~/assets/img/single_market_page/indice-small.png (from https://www.icmarkets.com/css/pages/why-icmarkets.css?64cd5a25d451a60affa471fdb7084261)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/pages/~/assets/img/single_market_page/bond-small.png (from https://www.icmarkets.com/css/pages/why-icmarkets.css?64cd5a25d451a60affa471fdb7084261)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/pages/~/assets/img/single_market_page/btc-small.png (from https://www.icmarkets.com/css/pages/why-icmarkets.css?64cd5a25d451a60affa471fdb7084261)
+21:22:49	Error: 	"Not Found" (404) at link https://www.icmarkets.com/global/en/css/pages/~/assets/img/single_market_page/stock-small.png (from https://www.icmarkets.com/css/pages/why-icmarkets.css?64cd5a25d451a60affa471fdb7084261)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 0 seconds : 629 links scanned, 591 files written (54773937 bytes overall) [21194138 bytes received at 44154 bytes/sec], 44282950 bytes transferred using HTTP compression in 281 files, ratio 13%, 13.9 requests per connection
+(36 errors, 3 warnings, 0 messages)

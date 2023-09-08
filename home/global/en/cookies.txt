@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+secure.icmarkets.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	wtsqirx4dnhbirotonkqekf5
+secure.icmarkets.com	TRUE	/	FALSE	1999999999	cultureName	en
+secure.icmarkets.com	TRUE	/	FALSE	1999999999	__RequestVerificationToken	cCbG3uTekct88ZqM1MJUKyAc_oPlgctKMr90PmpL6aUshqG1mwY2t5viSI2w_OmML5GP4dxZm-lD3lfVYuxHOmvcIqLX2DNz5P6n9EP3h0W8Fiza-Ewslsvs4LAMF933dh9Vfwk6d6S8n7LLezUenA2
+secure.icmarkets.com	TRUE	/	FALSE	1999999999	AWSALB	tMLmkljp30EVo5f945m1OZJL0P+n4dCunBF7Y9mhlMx9cnbibfHxvFyi0e0Y2je7lfLulJUNbBhsBaPsgcWpOo5ZVuZ/EEe5rCUeHTQx/s+5kSRGzV9r+KyWBI4M
+secure.icmarkets.com	TRUE	/	FALSE	1999999999	AWSALBCORS	tMLmkljp30EVo5f945m1OZJL0P+n4dCunBF7Y9mhlMx9cnbibfHxvFyi0e0Y2je7lfLulJUNbBhsBaPsgcWpOo5ZVuZ/EEe5rCUeHTQx/s+5kSRGzV9r+KyWBI4M
+secure.icmarkets.com	TRUE	/	FALSE	1999999999	SameSite	None
+
